@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "不可Boom",
+  "base_artist": "ChroNoiR",
+  "createdAt": "2026-01-01T12:24:14.576458Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不可Boom",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/pl_01_不可Boom_ChroNoiR.txt"
+    }
+  ]
+}
